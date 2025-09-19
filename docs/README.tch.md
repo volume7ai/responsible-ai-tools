@@ -1,4 +1,4 @@
-🌐 Languages: [English](README.md) | [繁體中文](README.tch.md) | [简体中文](README.sch.md)
+🌐 Languages: [English](../README.md) | [繁體中文](README.tch.md) | [简体中文](README.sch.md)
 
 
 # 中小企的負責任人工智能工具
