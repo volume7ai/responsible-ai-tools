@@ -1,3 +1,5 @@
+🌐 Languages: [English](README.md) | [繁體中文](docs/README.tch.md) | [简体中文](docs/README.sch.md)
+
 # Responsible AI Tools for SMEs
 
 This repository curates tools and resources that help **individuals and SMEs adopt AI responsibly**.  
